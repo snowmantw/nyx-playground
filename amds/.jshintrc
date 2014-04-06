@@ -1,0 +1,11 @@
+{
+  "node": true,
+  "esnext": true,
+  "strict": true,
+  "trailing": true,
+  "globals"   : {
+    "window": false,
+    "document": false,
+    "define": false
+  }
+}

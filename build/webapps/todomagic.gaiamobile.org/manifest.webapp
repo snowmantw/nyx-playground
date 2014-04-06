@@ -1,0 +1,59 @@
+{
+  "name": "TodoMagic",
+  "description": "Web app template",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "The Gaia Team",
+    "url": "https://github.com/mozilla-b2g/gaia"
+  },
+  "locales": {
+    "ar": {
+      "name": "TodoMagic",
+      "description": "Web app template"
+    },
+    "de": {
+      "name": "TodoMagic",
+      "description": "Web app template"
+    },
+    "el": {
+      "name": "TodoMagic",
+      "description": "Web app template"
+    },
+    "en-US": {
+      "name": "TodoMagic",
+      "description": "Web app template"
+    },
+    "es": {
+      "name": "TodoMagic",
+      "description": "Web app template"
+    },
+    "fr": {
+      "name": "TodoMagic",
+      "description": "Web app template"
+    },
+    "it": {
+      "name": "TodoMagic",
+      "description": "Web app template"
+    },
+    "pt-BR": {
+      "name": "TodoMagic",
+      "description": "Web app template"
+    },
+    "ru": {
+      "name": "TodoMagic",
+      "description": "Web app template"
+    },
+    "tr": {
+      "name": "TodoMagic",
+      "description": "Web app template"
+    },
+    "zh-TW": {
+      "name": "TodoMagic",
+      "description": "Web app template"
+    }
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/Blank.png"
+  }
+}
